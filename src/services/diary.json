@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "date":"2017-01-10",
+        "weather":"rainy",
+        "visibility": "poor",
+        "comment":"pretty scary flight , i'm glad i'm alive"
+    },
+    {
+        "id":2,
+        "date":"2017-01-15",
+        "weather":"sunny",
+        "visibility": "great",
+        "comment":"i'm hot"
+    },
+    {
+        "id":3,
+        "date":"2017-01-20",
+        "weather":"cloudy",
+        "visibility": "good",
+        "comment":"Its cold"
+    },
+    {
+        "id":4,
+        "date":"2017-01-25",
+        "weather":"stormy",
+        "visibility": "ok",
+        "comment":"its warm"
+    }
+]
